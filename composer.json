@@ -1,0 +1,15 @@
+{
+    "name": "ooing/go-notice",
+    "autoload": {
+        "psr-4": {
+            "ooing\\GoNotice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xiaoming",
+            "email": "xiaoming@example.com"
+        }
+    ],
+    "require": {}
+}
